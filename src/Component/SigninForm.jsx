@@ -1,6 +1,6 @@
 import React from 'react'
 import './SigninForm.css'
-import logo from '../Image/logo.png'
+import logo from '../img/logo.png'
 import { FaFacebookF } from "react-icons/fa";
 import { AiOutlineTwitter } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
