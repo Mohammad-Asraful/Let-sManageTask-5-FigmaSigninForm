@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800;900&display=swap");
+
+section {
+  background: linear-gradient(90deg, #55bb91 25%, #32a375 100%);
+  font-family: "Nunito Sans", sans-serif;
+}
+
+.main-div {
+  box-shadow: 0px 0px 60px 10px rgba(85, 44, 44, 0.2);
+}
+
+.information-page {
+  background-image: url("../Image/image.jpg");
+  /*   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+.icons-div a:first-child {
+  background: linear-gradient(45deg, #1ebbf0 8%, #39dfaa 100%);
+}
+
+.icons-div a:last-child {
+  background: linear-gradient(180deg, #a3d179 0%, #88ba46 100%);
+}
